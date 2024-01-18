@@ -3,6 +3,10 @@ body {
   font: 12pt "Tahoma"; 
 } 
 
+h1{
+  color: red;
+}
+
 article[size="A4"] {
   display: block;
   width: 21cm;
